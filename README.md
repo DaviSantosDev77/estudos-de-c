@@ -13,7 +13,7 @@ Uma calculadora de supermercado interativa desenvolvida em C para praticar e sol
 
 * **Linguagem:** C
 * **Compilador:** GCC
-* **Editor:** Visual Studio Code (ou o que você usou, como Cxxdroid)
+* **Editor:** Visual Studio Code.
 
 ## 🔧 Como Usar
 
@@ -34,6 +34,6 @@ Para compilar e executar o projeto localmente, siga os passos abaixo:
     * No Linux/Mac: `./calculadora`
 
 ---
-## 📸 Tela do Projeto
+
 
 
