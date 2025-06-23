@@ -36,6 +36,4 @@ Para compilar e executar o projeto localmente, siga os passos abaixo:
 ---
 ## 📸 Tela do Projeto
 
-*(Dica de ouro: Tire um print da tela do seu programa funcionando e suba a imagem aqui! Isso causa uma ótima primeira impressão)*
 
-[Imagem do programa mostrando um resumo de compra]
