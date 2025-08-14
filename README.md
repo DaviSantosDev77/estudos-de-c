@@ -1,22 +1,23 @@
 # 🚀 Meus Projetos de Estudo em C
 
-Bem-vindo ao meu repositório de estudos em C! Este é o lugar onde eu pratico e solidifico meus conhecimentos em algoritmos, lógica e na linguagem C. Cada projeto aqui representa um novo degrau na minha jornada de aprendizado.
+Bem-vindo ao meu repositório de estudos em C! Este é o lugar onde eu pratico e solidifico os meus conhecimentos em algoritmos, lógica e na linguagem C. Cada projeto aqui representa um novo degrau na minha jornada de aprendizagem.
 
 ---
 
 ## 📂 Projetos Neste Repositório
 
-1.  **[Calculadora de Compras](#-calculadora-de-compras)** - Um programa interativo para calcular o total de uma compra de supermercado.
-2.  **[Listador de Números Primos](#-listador-de-números-primos)** - Um algoritmo que encontra e exibe todos os números primos entre 1 e 100.
+1.  **[Calculadora de Compras](#-calculadora-de-compras)** - Um programa interativo para calcular o total de uma compra.
+2.  **[Listador de Números Primos](#-listador-de-números-primos)** - Um algoritmo que encontra e exibe todos os números primos.
+3.  **[Menu Interativo Dani Burguer](#-menu-interativo-dani-burguer)** - Um menu de consola para uma hamburgueria, usando um loop `do-while`.
 
 ---
 
 ### 🛒 Calculadora de Compras
 
-Um programa de console desenvolvido para treinar a manipulação de entrada do usuário, o uso de vetores (arrays) e a formatação de strings e números.
+Um programa de consola desenvolvido para treinar a manipulação de entrada do utilizador, o uso de vetores (arrays) e a formatação de strings e números.
 
-* **Conceitos praticados:** Loops `for`, vetores (arrays), `scanf` para ler strings com espaços (`%[^\n]`).
-* **Arquivo:** `calculadora.c`
+* **Conceitos praticados:** Loops `for`, vetores (arrays), `scanf`.
+* **Ficheiro:** `calculadora.c`
 
 ---
 
@@ -24,10 +25,16 @@ Um programa de console desenvolvido para treinar a manipulação de entrada do u
 
 Uma implementação do algoritmo clássico para encontrar números primos, focada em treinar a lógica de loops aninhados e a organização de código com **funções**.
 
-* **Conceitos praticados:** Loops aninhados, `if`, e refatoração com funções para um código mais limpo.
-* **Arquivo:** `ola.c`
+* **Conceitos praticados:** Loops aninhados, `if`, e refatoração com funções.
+* **Ficheiro:** `ola.c` (ou `primos_funcao.c`)
 
 ---
 
+### 🍔 Menu Interativo Dani Burguer
 
+Um programa que simula um menu de uma hamburgueria, exibindo opções e preços. O programa continua a ser executado até que o utilizador escolha a opção "Sair".
 
+* **Conceitos praticados:** Loop `do-while` para garantir a execução pelo menos uma vez, e a estrutura `if/else if` para lidar com as escolhas do utilizador.
+* **Ficheiro:** `dani_burguer_menu.c`
+
+---
