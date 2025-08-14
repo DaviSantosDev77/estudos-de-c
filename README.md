@@ -45,6 +45,6 @@ Um programa que simula um menu de uma hamburgueria, exibindo opções e preços.
 Um programa que imprime no ecrã as tabuadas de multiplicação do 1 ao 9.
 
 * **Conceitos praticados:** Loops `for` aninhados (um `for` dentro de outro `for`) para criar uma estrutura de repetição em duas dimensões.
-* **Ficheiro:** `tabuada_multiplicacao.cpp`
+* **Ficheiro:** `tabuada_multiplicacão.cpp`
 
 ---
