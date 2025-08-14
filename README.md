@@ -35,6 +35,6 @@ Uma implementação do algoritmo clássico para encontrar números primos, focad
 Um programa que simula um menu de uma hamburgueria, exibindo opções e preços. O programa continua a ser executado até que o utilizador escolha a opção "Sair".
 
 * **Conceitos praticados:** Loop `do-while` para garantir a execução pelo menos uma vez, e a estrutura `if/else if` para lidar com as escolhas do utilizador.
-* **Ficheiro:** `dani_burguer_menu.c`
+* **Ficheiro:** `menu_interativo.c`
 
 ---
